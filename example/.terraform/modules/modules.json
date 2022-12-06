@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"sftp","Source":"git::https://github.com/ryanlin-tech/mft-tf-module.git","Dir":".terraform/modules/sftp"}]}
