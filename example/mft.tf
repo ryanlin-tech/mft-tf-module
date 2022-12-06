@@ -3,7 +3,7 @@ module "sftp" {
 
   account_name         = "mft-test"
   domain_host          = "mft.staging.easyreturns.com.au"
-  domain_zone          = "staging.easyreturns.com.au"
+  domain_zone          = "Z016568416TDE7NM23XU5"
   s3_bucket_name       = "mft-s3-test"
   s3_bucket_versioning = true
   security_policy_name = "TransferSecurityPolicy-2018-11"
